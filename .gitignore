@@ -1,3 +1,7 @@
 .ipynb_checkpoints/
-.res/
+res/*
+res/
+
+sample_submission.csv
+*.csv
 
